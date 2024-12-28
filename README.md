@@ -13,7 +13,8 @@
 
 🛠️ Projects                
 
-* Power BI          
+* Power BI  
+[Goodcabs Performance Analysis ](https://github.com/DenisM03/Goodcabs_Performance_Analysis)          
 [Sales Analysis](https://github.com/DenisM03/PowerBI_Project--Sales_Analysis)                   
 [ATLIQ MART SUPPLY CHAIN ANALYSIS](https://github.com/DenisM03/ATLIQ__MART__SUPPLY__CHAIN__ANALYSIS)
 
