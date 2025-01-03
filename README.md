@@ -5,7 +5,7 @@
 🚀 About Me 
 
 📊 Data Analyst                       
-🎓 MSc Mathematics, postgraduate                                               
+🎓 MSc Mathematics
 🌱 Hands-on experience with data analytical tools like Excel, SQL, Power BI, Python, and Tableau.  
 
 🌐 Connect with Me                        
