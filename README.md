@@ -28,7 +28,8 @@
 * Python      
   [CodeX Market Analysis](https://github.com/DenisM03/CodeX_Market_Analysis)
 
-* Excel                    
+* Excel                
+[Retail Sales and Revenue Analysis](https://github.com/DenisM03/Retail__Sales__and__Revenue__Analysis)                
 [Superstore Sales Analysis](https://github.com/DenisM03/Excel_Project--Superstore_Sales_Analysis)
 
                         
