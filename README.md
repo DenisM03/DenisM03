@@ -15,7 +15,8 @@
 
 🛠️ Projects                
 
-* Power BI  
+* Power BI    
+[Mall Traffic & Sales Performance Analysis](https://github.com/DenisM03/Mall_Traffic_and_Sales_Performance_Analysis)    
 [Goodcabs Performance Analysis ](https://github.com/DenisM03/Goodcabs_Performance_Analysis)          
 [Sales Analysis](https://github.com/DenisM03/PowerBI_Project--Sales_Analysis)                   
 [ATLIQ MART SUPPLY CHAIN ANALYSIS](https://github.com/DenisM03/ATLIQ__MART__SUPPLY__CHAIN__ANALYSIS)
